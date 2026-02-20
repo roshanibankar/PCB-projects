@@ -7,9 +7,9 @@
 - Ultrasonic sensor distance and depth determination with Arduino(Depth)
 
 - LED Heart Blinker (A heart-shaped PCB powered by a **555 Timer** in astable mode. Features 14 LEDs that create a pulsing heartbeat effect.)
-* **Design:** Created in KiCad.
-* **Power:** 9V Battery.
-* **Manufacture:** Upload `valentine's-heart-pcb.zip` to any PCB fabricator.
+**Design:** Created in KiCad.
+**Power:** 9V Battery.
+**Manufacture:** Upload `valentine's-heart-pcb.zip` to any PCB fabricator.
 Materials
 - 1x NE555P Timer IC
 - 14x 5mm LEDs
