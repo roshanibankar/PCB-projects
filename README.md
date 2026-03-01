@@ -11,12 +11,12 @@
 **Power:** 9V Battery.
 **Manufacture:** Upload `valentine's-heart-pcb.zip` to any PCB fabricator.
 
-* A compact, single ESP32 sensor board that can stand alone.
-
-* A small, self-contained “smart button board” for experiments or IoT control.
-
 * audio-sync-led // Beat‑Triggered LED Bracelet for concerts
 
 * Real mini photobooth you can build into a case.
 
 * A little robot that follows light or avoids darkness.
+
+* A compact, single ESP32 sensor board that can stand alone.
+
+* A small, self-contained “smart button board” for experiments or IoT control.
